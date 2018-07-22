@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="text_equation">0</string>
+    <string name="rad_degree_togle">RAD</string>
+    <string name="factortial">!</string>
+    <string name="open_parens">(</string>
+    <string name="closed_parens">)</string>
+    <string name="percent">%</string>
+    <string name="clear">CE</string>
+    <string name="inverse">inv</string>
+    <string name="sin">sin</string>
+    <string name="sin_inverse">asin</string>
+    <string name="ln">ln</string>
+    <string name="ln_inverse">e^x</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="divide">/</string>
+    <string name="pi">π</string>
+    <string name="cos">cos</string>
+    <string name="cos_inverse">acos</string>
+    <string name="log">log</string>
+    <string name="log_inverse">10^x</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="multiply">*</string>
+    <string name="eulers_number">e</string>
+    <string name="tangent">tan</string>
+    <string name="tangent_inverse">atan</string>
+    <string name="square">^</string>
+    <string name="square_root">√</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="subtract">-</string>
+    <string name="answer">Ans</string>
+    <string name="random_number">Rnd</string>
+    <string name="exponent">Exp</string>
+    <string name="x_square_y">x^y</string>
+    <string name="x_root_y">√</string>
+    <string name="Zero">0</string>
+    <string name="decimal">.</string>
+    <string name="equals">=</string>
+    <string name="add">+</string>
+
+</resources>
